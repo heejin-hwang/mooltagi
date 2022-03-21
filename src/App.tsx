@@ -64,7 +64,7 @@ const App = () => {
 
   return (
     <div className='App'>
-      <Typography variant={'h1'} sx={{ margin: 5, fontFamily: 'Poor Story' }}>
+      <Typography variant='h1' sx={{ margin: 5, fontFamily: 'Poor Story' }}>
         물타기
       </Typography>
       <Paper sx={paperStyle}>
